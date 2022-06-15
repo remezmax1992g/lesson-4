@@ -1,0 +1,16 @@
+img {
+    width: 100px;
+}
+input {
+    padding: 20px;
+}
+.important-item {
+    color: blue;
+    font-size: 20px;
+    border: green 1px solid;
+    margin-left: 10px;
+    padding: 5px;
+}
+.important-size {
+    font-size: 50px;
+}
